@@ -1,0 +1,4 @@
+System.out.println("Hello");
+System.out.println(String.format("\n").charAt(0) == 10);
+System.out.println("Bye");
+An exception occurred during evaluation:  java.lang.StringIndexOutOfBoundsException
